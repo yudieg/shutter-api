@@ -1,0 +1,10 @@
+{
+    "name": "shutter-1",
+    "currentPos": 100,
+    "calibration": {
+        "min": -1000,
+        "max": 2000,
+    },
+    "schedule": [
+    ]
+}
